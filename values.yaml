@@ -1,0 +1,2 @@
+image: andysheplbgv2/vat:<+pipeline.sequenceId>
+replicas: 1
